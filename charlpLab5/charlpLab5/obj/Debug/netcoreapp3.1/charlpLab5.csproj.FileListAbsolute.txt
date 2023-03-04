@@ -1,0 +1,14 @@
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\bin\Debug\netcoreapp3.1\charlpLab5.exe
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\bin\Debug\netcoreapp3.1\charlpLab5.deps.json
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\bin\Debug\netcoreapp3.1\charlpLab5.runtimeconfig.json
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\bin\Debug\netcoreapp3.1\charlpLab5.runtimeconfig.dev.json
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\bin\Debug\netcoreapp3.1\charlpLab5.dll
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\bin\Debug\netcoreapp3.1\charlpLab5.pdb
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.dll
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.pdb
+C:\Users\IVM505\source\repos\charlpLab5\charlpLab5\obj\Debug\netcoreapp3.1\charlpLab5.genruntimeconfig.cache
